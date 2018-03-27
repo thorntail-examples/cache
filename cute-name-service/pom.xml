@@ -9,10 +9,10 @@
     <artifactId>wfswarm-cache-booster</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
-  <artifactId>wfswarm-cache-name</artifactId>
+  <artifactId>wfswarm-cache-cute-name</artifactId>
   <packaging>war</packaging>
 
-  <name>WildFly Swarm - Cache Booster - Name Service</name>
+  <name>WildFly Swarm - Cache Booster - Cute Name Service</name>
 
   <dependencies>
     <dependency>

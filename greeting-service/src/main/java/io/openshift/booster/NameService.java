@@ -34,7 +34,7 @@ import javax.ws.rs.client.WebTarget;
 public class NameService {
 
     @Inject
-    @ConfigurationValue("name-service.url")
+    @ConfigurationValue("cute-name-service.url")
     private String nameServiceUrl;
 
     public String getName() {
