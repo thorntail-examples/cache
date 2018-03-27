@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.greeting.dto;
+package io.openshift.booster.dto;
 
 /**
  * @author Michal Szynkiewicz, michal.l.szynkiewicz@gmail.com

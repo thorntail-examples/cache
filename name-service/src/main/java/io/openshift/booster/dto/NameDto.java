@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.name;
+package io.openshift.booster.dto;
 
 /**
  *

@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.name;
+package io.openshift.booster;
 
 import org.jboss.arquillian.container.test.api.RunAsClient;
 import org.jboss.arquillian.junit.Arquillian;

@@ -15,10 +15,10 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.greeting;
+package io.openshift.booster;
 
-import io.openshift.booster.cache.greeting.dto.CacheCheck;
-import io.openshift.booster.cache.greeting.dto.Message;
+import io.openshift.booster.dto.CacheCheck;
+import io.openshift.booster.dto.Message;
 import org.jboss.logging.Logger;
 
 import javax.inject.Inject;

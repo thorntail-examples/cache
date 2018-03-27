@@ -15,17 +15,22 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.name;
-
-import javax.ws.rs.ApplicationPath;
-import javax.ws.rs.core.Application;
+package io.openshift.booster.dto;
 
 /**
  * @author Michal Szynkiewicz, michal.l.szynkiewicz@gmail.com
  * <br>
- * Date: 2/7/18
+ * Date: 1/31/18
  */
-@ApplicationPath("/api")
-public class ApplicationConfig extends Application {
 
+public class Message {
+    private final String message;
+
+    public Message(String message) {
+        this.message = message;
+    }
+
+    public String getMessage() {
+        return message;
+    }
 }

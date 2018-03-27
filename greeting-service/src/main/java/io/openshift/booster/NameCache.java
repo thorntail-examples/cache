@@ -15,7 +15,7 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.greeting;
+package io.openshift.booster;
 
 import org.infinispan.client.hotrod.RemoteCache;
 import org.infinispan.client.hotrod.RemoteCacheManager;
@@ -55,7 +55,7 @@ public class NameCache {
                 .connectionPool()
                 .addServer()
                 .host(infinispanHost)
-                .port(Integer.valueOf(infinispanPort));
+                .port(infinispanPort);
         RemoteCacheManager cacheManager = new RemoteCacheManager(configurationBuilder.build());
         cache = cacheManager.getCache();
         log.debugv("configured cache %s:%d", infinispanHost, infinispanPort);

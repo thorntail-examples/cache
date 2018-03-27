@@ -15,37 +15,17 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.name;
+package io.openshift.booster;
 
-import org.jboss.logging.Logger;
-
-import javax.ws.rs.GET;
-import javax.ws.rs.Path;
-import javax.ws.rs.Produces;
+import javax.ws.rs.ApplicationPath;
+import javax.ws.rs.core.Application;
 
 /**
  * @author Michal Szynkiewicz, michal.l.szynkiewicz@gmail.com
  * <br>
- * Date: 1/31/18
+ * Date: 2/7/18
  */
-@Path("/name")
-@Produces("application/json")
-public class NameResource {
-
-    private static final Logger log = Logger.getLogger(NameResource.class);
-
-    @GET
-    public NameDto getName() {
-        log.info("generating the name");
-        performSlowOperation();
-        return new NameDto(UserNameGenerator.generate());
-    }
-
-    private void performSlowOperation() {
-        try {
-            Thread.sleep(2000L);
-        } catch (InterruptedException ignored) {
-        }
-    }
+@ApplicationPath("/api")
+public class ApplicationConfig extends Application {
 
 }

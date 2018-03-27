@@ -15,12 +15,13 @@
  *  limitations under the License.
  *
  */
-package io.openshift.booster.cache.greeting;
+package io.openshift.booster;
 
 import org.wildfly.swarm.spi.runtime.annotations.ConfigurationValue;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
+import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.WebTarget;
 
@@ -37,9 +38,14 @@ public class NameService {
     private String nameServiceUrl;
 
     public String getName() {
-        WebTarget target = ClientBuilder.newClient().target(nameServiceUrl);
-        NameDto dto = target.path("name").request().get().readEntity(NameDto.class);
-        return dto.getName();
+        Client client = ClientBuilder.newClient();
+        try {
+            WebTarget target = client.target(nameServiceUrl);
+            NameDto dto = target.path("name").request().get().readEntity(NameDto.class);
+            return dto.getName();
+        } finally {
+            client.close();
+        }
     }
 
     public static class NameDto {
