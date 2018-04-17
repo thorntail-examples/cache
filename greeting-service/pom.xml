@@ -7,11 +7,11 @@
   <parent>
     <groupId>io.openshift.booster</groupId>
     <artifactId>wfswarm-cache-booster</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
 
   <artifactId>wfswarm-cache-greeting</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>WildFly Swarm - Cache Booster - Greeting Service</name>
