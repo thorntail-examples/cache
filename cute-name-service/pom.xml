@@ -6,29 +6,36 @@
 
   <parent>
     <groupId>io.openshift.booster</groupId>
-    <artifactId>wfswarm-cache-booster</artifactId>
+    <artifactId>thorntail-cache-booster</artifactId>
     <version>2-SNAPSHOT</version>
   </parent>
-  <artifactId>wfswarm-cache-cute-name</artifactId>
+  <artifactId>thorntail-cache-cute-name</artifactId>
   <packaging>war</packaging>
 
-  <name>WildFly Swarm - Cache Booster - Cute Name Service</name>
+  <name>Thorntail - Cache Booster - Cute Name Service</name>
 
   <dependencies>
     <dependency>
-      <groupId>org.wildfly.swarm</groupId>
+      <groupId>io.thorntail</groupId>
       <artifactId>jaxrs</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.wildfly.swarm</groupId>
+      <groupId>io.thorntail</groupId>
       <artifactId>cdi</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>monitor</artifactId>
+      <groupId>io.thorntail</groupId>
+      <artifactId>microprofile-health</artifactId>
+      <!-- workaround for https://issues.jboss.org/browse/THORN-2015 -->
+      <exclusions>
+        <exclusion>
+          <groupId>org.wildfly.swarm</groupId>
+          <artifactId>config-api-runtime</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
-      <groupId>org.wildfly.swarm</groupId>
+      <groupId>io.thorntail</groupId>
       <artifactId>arquillian</artifactId>
       <scope>test</scope>
     </dependency>
@@ -59,7 +66,7 @@
             <configuration>
               <generator>
                 <includes>
-                  <include>wildfly-swarm</include>
+                  <include>thorntail-v2</include>
                 </includes>
                 <excludes>
                   <exclude>webapp</exclude>
