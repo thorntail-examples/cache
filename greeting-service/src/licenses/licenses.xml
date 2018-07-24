@@ -539,7 +539,7 @@
     <dependency>
       <groupId>io.openshift</groupId>
       <artifactId>booster-parent</artifactId>
-      <version>20</version>
+      <version>23</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -549,8 +549,8 @@
     </dependency>
     <dependency>
       <groupId>io.openshift.booster</groupId>
-      <artifactId>wfswarm-cache-booster</artifactId>
-      <version>1</version>
+      <artifactId>thorntail-cache-booster</artifactId>
+      <version>2</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -560,8 +560,415 @@
     </dependency>
     <dependency>
       <groupId>io.openshift.booster</groupId>
-      <artifactId>wfswarm-cache-greeting</artifactId>
-      <version>1</version>
+      <artifactId>thorntail-cache-greeting</artifactId>
+      <version>2</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>arquillian</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>arquillian-adapter</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>arquillian-daemon</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>arquillian-resolver</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>bean-validation</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>bom</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>bootstrap</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>build-parent</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>cdi</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>cdi-config</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>config-api</artifactId>
+      <version>1.4.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>config-api-parent</artifactId>
+      <version>1.4.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>config-api-runtime</artifactId>
+      <version>1.4.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>container</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>ee</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>elytron</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>fraction-metadata</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>health-api</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>io</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>jaxrs</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>jaxrs-cdi</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>logging</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>management</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>meta-spi</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>microprofile-config</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>microprofile-health</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>msc</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>naming</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>parent</artifactId>
+      <version>10</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>request-controller</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>security</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>spi</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>thorntail</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>thorntail-maven-plugin</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>tools</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>transactions</artifactId>
+      <version>2.0.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>undertow</artifactId>
+      <version>2.0.0.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -636,6 +1043,28 @@
       </licenses>
     </dependency>
     <dependency>
+      <groupId>javax.annotation</groupId>
+      <artifactId>javax.annotation-api</artifactId>
+      <version>1.2</version>
+      <licenses>
+        <license>
+          <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
+          <url>https://netbeans.org/cddl-gplv2.html</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>javax.el</groupId>
+      <artifactId>javax.el-api</artifactId>
+      <version>3.0.0</version>
+      <licenses>
+        <license>
+          <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
+          <url>https://netbeans.org/cddl-gplv2.html</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
       <groupId>javax.enterprise</groupId>
       <artifactId>cdi-api</artifactId>
       <version>1.2</version>
@@ -654,6 +1083,17 @@
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>javax.interceptor</groupId>
+      <artifactId>javax.interceptor-api</artifactId>
+      <version>1.2</version>
+      <licenses>
+        <license>
+          <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
+          <url>https://netbeans.org/cddl-gplv2.html</url>
         </license>
       </licenses>
     </dependency>
@@ -699,6 +1139,14 @@
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
         </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>net.java</groupId>
+      <artifactId>jvnet-parent</artifactId>
+      <version>3</version>
+      <licenses>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
@@ -1793,7 +2241,7 @@
     <dependency>
       <groupId>org.arquillian.cube</groupId>
       <artifactId>arquillian-cube-bom</artifactId>
-      <version>1.15.1</version>
+      <version>1.15.3</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2195,6 +2643,50 @@
       </licenses>
     </dependency>
     <dependency>
+      <groupId>org.eclipse.microprofile.config</groupId>
+      <artifactId>microprofile-config-api</artifactId>
+      <version>1.2</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.microprofile.config</groupId>
+      <artifactId>microprofile-config-parent</artifactId>
+      <version>1.2</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.microprofile.health</groupId>
+      <artifactId>microprofile-health-api</artifactId>
+      <version>1.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.microprofile.health</groupId>
+      <artifactId>microprofile-health-parent</artifactId>
+      <version>1.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
       <groupId>org.glassfish</groupId>
       <artifactId>javax.el</artifactId>
       <version>3.0.1-b08-jbossorg-1</version>
@@ -2572,7 +3064,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-impl-base</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2583,7 +3075,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-spi</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2594,7 +3086,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-api</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2605,7 +3097,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-impl-base</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2616,7 +3108,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-spi</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2638,7 +3130,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.core</groupId>
       <artifactId>arquillian-core-impl-base</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2660,7 +3152,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.junit</groupId>
       <artifactId>arquillian-junit-container</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2671,7 +3163,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.junit</groupId>
       <artifactId>arquillian-junit-core</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2682,7 +3174,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-api</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2693,7 +3185,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-impl-base</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2704,7 +3196,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-spi</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2715,7 +3207,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-cdi</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2726,7 +3218,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-ejb</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2737,7 +3229,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-initialcontext</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2748,7 +3240,7 @@
     <dependency>
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-resource</artifactId>
-      <version>1.1.13.Final</version>
+      <version>1.1.15.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -2924,7 +3416,7 @@
     <dependency>
       <groupId>org.jboss.modules</groupId>
       <artifactId>jboss-modules</artifactId>
-      <version>1.6.1.Final</version>
+      <version>1.6.4.Final</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -3785,6 +4277,17 @@
       </licenses>
     </dependency>
     <dependency>
+      <groupId>org.osgi</groupId>
+      <artifactId>org.osgi.annotation.versioning</artifactId>
+      <version>1.0.0</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
       <groupId>org.ow2</groupId>
       <artifactId>ow2</artifactId>
       <version>1.3</version>
@@ -4245,6 +4748,39 @@
     </dependency>
     <dependency>
       <groupId>org.wildfly</groupId>
+      <artifactId>wildfly-microprofile-config</artifactId>
+      <version>1.2.1</version>
+      <licenses>
+        <license>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.wildfly</groupId>
+      <artifactId>wildfly-microprofile-config-extension</artifactId>
+      <version>1.2.1</version>
+      <licenses>
+        <license>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.wildfly</groupId>
+      <artifactId>wildfly-microprofile-config-implementation</artifactId>
+      <version>1.2.1</version>
+      <licenses>
+        <license>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.wildfly</groupId>
       <artifactId>wildfly-naming</artifactId>
       <version>11.0.0.Final</version>
       <licenses>
@@ -4389,22 +4925,22 @@
     <dependency>
       <groupId>org.wildfly.client</groupId>
       <artifactId>wildfly-client-config</artifactId>
-      <version>1.0.0.CR2</version>
+      <version>1.0.0.Final</version>
       <licenses>
         <license>
-          <name>Public Domain</name>
-          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
       </licenses>
     </dependency>
     <dependency>
       <groupId>org.wildfly.common</groupId>
       <artifactId>wildfly-common</artifactId>
-      <version>1.2.0.CR1</version>
+      <version>1.2.0.Final</version>
       <licenses>
         <license>
-          <name>Public Domain</name>
-          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
       </licenses>
     </dependency>
@@ -4881,397 +5417,12 @@
     </dependency>
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
-      <artifactId>arquillian</artifactId>
-      <version>2018.3.3</version>
+      <artifactId>microprofile-config-api</artifactId>
+      <version>1.2.1</version>
       <licenses>
         <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>arquillian-adapter</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>arquillian-daemon</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>arquillian-resolver</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>bean-validation</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>bom</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>bootstrap</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>build-parent</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>cdi</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>cdi-config</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>config-api</artifactId>
-      <version>1.3.0</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>config-api-parent</artifactId>
-      <version>1.3.0</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>config-api-runtime</artifactId>
-      <version>1.3.0</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>container</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>ee</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>elytron</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>fraction-metadata</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>health-api</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>io</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>jaxrs</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>jaxrs-cdi</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>logging</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>management</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>meta-spi</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>monitor</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>msc</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>naming</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>parent</artifactId>
-      <version>9</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>request-controller</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>security</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>spi</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>tools</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>transactions</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>undertow</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>wildfly-swarm</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.wildfly.swarm</groupId>
-      <artifactId>wildfly-swarm-plugin</artifactId>
-      <version>2018.3.3</version>
-      <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
         </license>
       </licenses>
     </dependency>
