@@ -12,7 +12,7 @@
 
   <groupId>io.openshift.booster</groupId>
   <artifactId>thorntail-cache-booster</artifactId>
-  <version>2-SNAPSHOT</version>
+  <version>2</version>
   <packaging>pom</packaging>
   <properties>
     <version.thorntail>2.0.0.Final</version.thorntail>
