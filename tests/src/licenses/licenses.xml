@@ -682,7 +682,7 @@
     <dependency>
       <groupId>io.openshift.booster</groupId>
       <artifactId>thorntail-cache-booster</artifactId>
-      <version>2</version>
+      <version>3</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -693,7 +693,7 @@
     <dependency>
       <groupId>io.openshift.booster</groupId>
       <artifactId>thorntail-cache-cute-name</artifactId>
-      <version>2</version>
+      <version>3</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -704,7 +704,7 @@
     <dependency>
       <groupId>io.openshift.booster</groupId>
       <artifactId>thorntail-cache-greeting</artifactId>
-      <version>2</version>
+      <version>3</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -715,7 +715,7 @@
     <dependency>
       <groupId>io.openshift.booster</groupId>
       <artifactId>thorntail-cache-tests</artifactId>
-      <version>2</version>
+      <version>3</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -1267,10 +1267,7 @@
       <artifactId>jsr250-api</artifactId>
       <version>1.0</version>
       <licenses>
-        <license>
-          <name>Common Development and Distribution License 1.0</name>
-          <url>http://www.opensource.org/licenses/cddl1.html</url>
-        </license>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
@@ -3001,7 +2998,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-container-default</artifactId>
-      <version>1.0-alpha-9</version>
+      <version>1.0-alpha-9-stable-1</version>
       <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
@@ -5773,11 +5770,11 @@
     <dependency>
       <groupId>org.wildfly.common</groupId>
       <artifactId>wildfly-common</artifactId>
-      <version>1.2.0.Final</version>
+      <version>1.2.0.CR1</version>
       <licenses>
         <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
         </license>
       </licenses>
     </dependency>
