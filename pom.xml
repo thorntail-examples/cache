@@ -15,7 +15,7 @@
   <version>6-SNAPSHOT</version>
   <packaging>pom</packaging>
   <properties>
-    <version.thorntail>2.3.0.Final</version.thorntail>
+    <version.thorntail>2.4.0.Final</version.thorntail>
     <version.infinispan>9.2.5.Final</version.infinispan>
     <version.resteasy>3.6.2.Final</version.resteasy>
     <version.restassured>3.2.0</version.restassured>
