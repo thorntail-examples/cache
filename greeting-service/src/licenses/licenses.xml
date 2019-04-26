@@ -4,8 +4,7 @@
       <groupId>backport-util-concurrent</groupId>
       <artifactId>backport-util-concurrent</artifactId>
       <version>3.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url>http://creativecommons.org/licenses/publicdomain</url>
@@ -16,8 +15,7 @@
       <groupId>classworlds</groupId>
       <artifactId>classworlds</artifactId>
       <version>1.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -28,8 +26,7 @@
       <groupId>com.eclipsesource.minimal-json</groupId>
       <artifactId>minimal-json</artifactId>
       <version>0.9.4</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://www.opensource.org/licenses/MIT</url>
@@ -40,8 +37,7 @@
       <groupId>com.fasterxml</groupId>
       <artifactId>oss-parent</artifactId>
       <version>30</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -52,8 +48,7 @@
       <groupId>com.fasterxml.jackson</groupId>
       <artifactId>jackson-base</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -64,8 +59,7 @@
       <groupId>com.fasterxml.jackson</groupId>
       <artifactId>jackson-bom</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -76,8 +70,7 @@
       <groupId>com.fasterxml.jackson</groupId>
       <artifactId>jackson-parent</artifactId>
       <version>2.9.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -88,8 +81,7 @@
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-annotations</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -100,8 +92,7 @@
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-core</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -112,8 +103,7 @@
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -124,8 +114,7 @@
       <groupId>com.fasterxml.jackson.jaxrs</groupId>
       <artifactId>jackson-jaxrs-base</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -136,8 +125,7 @@
       <groupId>com.fasterxml.jackson.jaxrs</groupId>
       <artifactId>jackson-jaxrs-json-provider</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -148,8 +136,7 @@
       <groupId>com.fasterxml.jackson.jaxrs</groupId>
       <artifactId>jackson-jaxrs-providers</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -160,8 +147,7 @@
       <groupId>com.fasterxml.jackson.module</groupId>
       <artifactId>jackson-module-jaxb-annotations</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -172,8 +158,7 @@
       <groupId>com.fasterxml.jackson.module</groupId>
       <artifactId>jackson-modules-base</artifactId>
       <version>2.9.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -183,9 +168,19 @@
     <dependency>
       <groupId>com.github.ben-manes.caffeine</groupId>
       <artifactId>caffeine</artifactId>
-      <version>2.4.0</version>
-      fcc
-    <licenses>
+      <version>2.6.2</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>com.google</groupId>
+      <artifactId>google</artifactId>
+      <version>1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -196,8 +191,7 @@
       <groupId>com.google.code.findbugs</groupId>
       <artifactId>jsr305</artifactId>
       <version>2.0.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -205,11 +199,10 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>com.google.code.maven-scm-provider-svnjava</groupId>
-      <artifactId>maven-scm-provider-svnjava</artifactId>
-      <version>2.1.1</version>
-      fcc
-    <licenses>
+      <groupId>com.google.collections</groupId>
+      <artifactId>google-collections</artifactId>
+      <version>1.0</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -220,8 +213,7 @@
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
       <version>18.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -232,8 +224,7 @@
       <groupId>com.google.guava</groupId>
       <artifactId>guava-parent</artifactId>
       <version>18.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -244,8 +235,7 @@
       <groupId>com.googlecode.javaewah</groupId>
       <artifactId>JavaEWAH</artifactId>
       <version>1.1.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -256,104 +246,7 @@
       <groupId>com.jcraft</groupId>
       <artifactId>jsch</artifactId>
       <version>0.1.54</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.connector-factory</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.core</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.pageant</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.sshagent</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.svnkit-trilead-ssh2</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.usocket-jna</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The BSD License</name>
-          <url>http://repository.jboss.org/licenses/bsd.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>com.jcraft</groupId>
-      <artifactId>jsch.agentproxy.usocket-nc</artifactId>
-      <version>0.0.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -364,8 +257,7 @@
       <groupId>com.jcraft</groupId>
       <artifactId>jzlib</artifactId>
       <version>1.1.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -373,23 +265,10 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>com.thoughtworks.qdox</groupId>
-      <artifactId>qdox</artifactId>
-      <version>2.0-M9</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
       <groupId>com.thoughtworks.xstream</groupId>
       <artifactId>xstream</artifactId>
       <version>1.4.10</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -400,8 +279,7 @@
       <groupId>com.thoughtworks.xstream</groupId>
       <artifactId>xstream-parent</artifactId>
       <version>1.4.10</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -409,47 +287,18 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>com.trilead</groupId>
-      <artifactId>trilead-ssh2</artifactId>
-      <version>1.0.0-build217</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Trilead Library License</name>
-          <url>http://www.svnkit.com/TRILEAD-LICENSE.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
       <groupId>commons-cli</groupId>
       <artifactId>commons-cli</artifactId>
-      <version>1.2</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>commons-codec</groupId>
-      <artifactId>commons-codec</artifactId>
-      <version>1.11</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
+      <version>1.0</version>
+      <licenses>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -460,8 +309,7 @@
       <groupId>commons-lang</groupId>
       <artifactId>commons-lang</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -469,23 +317,10 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>de.regnis.q.sequence</groupId>
-      <artifactId>sequence-library</artifactId>
-      <version>1.0.2</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Sequence Library License</name>
-          <url>http://www.svnkit.com/SEQUENCE-LICENSE.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>io.netty</groupId>
-      <artifactId>netty-bom</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging-api</artifactId>
+      <version>1.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -495,9 +330,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-buffer</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -507,9 +341,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-codec</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -519,9 +352,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-common</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -531,9 +363,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-handler</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -543,9 +374,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-parent</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -555,9 +385,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-resolver</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -567,9 +396,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-transport</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -579,9 +407,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-transport-native-epoll</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -591,45 +418,8 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-transport-native-unix-common</artifactId>
-      <version>4.1.22.Final</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>io.openshift</groupId>
-      <artifactId>booster-parent</artifactId>
-      <version>24</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>io.openshift.booster</groupId>
-      <artifactId>thorntail-cache-booster</artifactId>
-      <version>5</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>io.openshift.booster</groupId>
-      <artifactId>thorntail-cache-greeting</artifactId>
-      <version>5</version>
-      fcc
-    <licenses>
+      <version>4.1.28.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -640,8 +430,7 @@
       <groupId>io.smallrye</groupId>
       <artifactId>smallrye-config</artifactId>
       <version>1.3.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -652,8 +441,7 @@
       <groupId>io.smallrye</groupId>
       <artifactId>smallrye-config-parent</artifactId>
       <version>1.3.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -664,8 +452,7 @@
       <groupId>io.smallrye</groupId>
       <artifactId>smallrye-health</artifactId>
       <version>1.0.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -676,8 +463,7 @@
       <groupId>io.smallrye</groupId>
       <artifactId>smallrye-health-parent</artifactId>
       <version>1.0.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -688,8 +474,7 @@
       <groupId>io.smallrye</groupId>
       <artifactId>smallrye-parent</artifactId>
       <version>2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -699,9 +484,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>arquillian</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -711,9 +495,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>arquillian-adapter</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -723,9 +506,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>arquillian-daemon</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -735,9 +517,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>arquillian-resolver</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -747,9 +528,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>bean-validation</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -759,9 +539,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>bom</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -771,9 +550,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>bootstrap</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -783,9 +561,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>build-parent</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -795,9 +572,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>cdi</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -807,9 +583,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>cdi-config</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -820,8 +595,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>config-api</artifactId>
       <version>1.6.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -832,8 +606,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>config-api-parent</artifactId>
       <version>1.6.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -844,8 +617,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>config-api-runtime</artifactId>
       <version>1.6.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -855,9 +627,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>container</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -867,9 +638,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>ee</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -879,9 +649,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>elytron</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -891,9 +660,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>fraction-metadata</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -903,9 +671,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>io</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -915,9 +682,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>jaxrs</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -927,9 +693,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>jaxrs-cdi</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -939,9 +704,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>logging</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -951,9 +715,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>management</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -963,9 +726,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>maven-utils</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -975,9 +737,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>meta-spi</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -987,9 +748,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>microprofile-config</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1000,8 +760,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>microprofile-config-wildfly</artifactId>
       <version>1.6.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1012,8 +771,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>microprofile-config-wildfly-config-api</artifactId>
       <version>1.6.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1023,9 +781,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>microprofile-health</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1035,9 +792,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>msc</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1047,9 +803,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>naming</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1060,8 +815,7 @@
       <groupId>io.thorntail</groupId>
       <artifactId>parent</artifactId>
       <version>11</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1071,9 +825,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>request-controller</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1083,9 +836,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>security</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1095,9 +847,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>spi</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1107,9 +858,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>thorntail</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1119,9 +869,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>thorntail-maven-plugin</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1131,9 +880,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>tools</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1143,9 +891,8 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>transactions</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1155,9 +902,41 @@
     <dependency>
       <groupId>io.thorntail</groupId>
       <artifactId>undertow</artifactId>
-      <version>2.3.0.Final</version>
-      fcc
-    <licenses>
+      <version>2.4.0.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail.example</groupId>
+      <artifactId>thorntail-cache-greeting</artifactId>
+      <version>6</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail.example</groupId>
+      <artifactId>thorntail-cache-parent</artifactId>
+      <version>6</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>io.thorntail.jdk-specific</groupId>
+      <artifactId>thorntail-jdk-specific</artifactId>
+      <version>1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1168,8 +947,7 @@
       <groupId>io.undertow</groupId>
       <artifactId>undertow-core</artifactId>
       <version>2.0.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1180,8 +958,7 @@
       <groupId>io.undertow</groupId>
       <artifactId>undertow-parent</artifactId>
       <version>2.0.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1192,8 +969,7 @@
       <groupId>io.undertow</groupId>
       <artifactId>undertow-servlet</artifactId>
       <version>2.0.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1204,8 +980,7 @@
       <groupId>javax.annotation</groupId>
       <artifactId>javax.annotation-api</artifactId>
       <version>1.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
           <url>https://netbeans.org/cddl-gplv2.html</url>
@@ -1216,8 +991,7 @@
       <groupId>javax.el</groupId>
       <artifactId>javax.el-api</artifactId>
       <version>3.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
           <url>https://netbeans.org/cddl-gplv2.html</url>
@@ -1228,8 +1002,7 @@
       <groupId>javax.enterprise</groupId>
       <artifactId>cdi-api</artifactId>
       <version>2.0.SP1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1240,8 +1013,7 @@
       <groupId>javax.inject</groupId>
       <artifactId>javax.inject</artifactId>
       <version>1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1252,8 +1024,7 @@
       <groupId>javax.interceptor</groupId>
       <artifactId>javax.interceptor-api</artifactId>
       <version>1.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
           <url>https://netbeans.org/cddl-gplv2.html</url>
@@ -1264,8 +1035,7 @@
       <groupId>javax.json</groupId>
       <artifactId>javax.json-api</artifactId>
       <version>1.1.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Dual license consisting of the CDDL v1.1 and GPL v2</name>
           <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
@@ -1276,8 +1046,7 @@
       <groupId>javax.validation</groupId>
       <artifactId>validation-api</artifactId>
       <version>2.0.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1288,8 +1057,7 @@
       <groupId>javax.xml.bind</groupId>
       <artifactId>jaxb-api</artifactId>
       <version>2.3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Dual license consisting of the CDDL v1.1 and GPL v2</name>
           <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
@@ -1304,8 +1072,7 @@
       <groupId>javax.xml.bind</groupId>
       <artifactId>jaxb-api-parent</artifactId>
       <version>2.3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Dual license consisting of the CDDL v1.1 and GPL v2</name>
           <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
@@ -1320,8 +1087,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -1329,44 +1095,26 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>net.java</groupId>
-      <artifactId>jvnet-parent</artifactId>
-      <version>5</version>
-      fcc
-    <licenses>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.12</version>
+      <licenses>
         <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
-      <groupId>net.java.dev.jna</groupId>
-      <artifactId>jna</artifactId>
-      <version>3.5.2</version>
-      fcc
-    <licenses>
-        <license>
-          <name>GNU Lesser General Public License, Version 2.1</name>
-          <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>net.java.dev.jna</groupId>
-      <artifactId>platform</artifactId>
-      <version>3.5.2</version>
-      fcc
-    <licenses>
-        <license>
-          <name>GNU Lesser General Public License, Version 2.1</name>
-          <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
-        </license>
+      <groupId>net.java</groupId>
+      <artifactId>jvnet-parent</artifactId>
+      <version>5</version>
+      <licenses>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
       <groupId>net.lingala.zip4j</groupId>
       <artifactId>zip4j</artifactId>
       <version>1.3.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1374,35 +1122,10 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>org.antlr</groupId>
-      <artifactId>antlr-master</artifactId>
-      <version>3.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>BSD 3-clause "New" or "Revised" License</name>
-          <url>http://www.opensource.org/licenses/BSD-3-Clause</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.antlr</groupId>
-      <artifactId>antlr-runtime</artifactId>
-      <version>3.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>BSD 3-clause "New" or "Revised" License</name>
-          <url>http://www.opensource.org/licenses/BSD-3-Clause</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
       <groupId>org.apache</groupId>
       <artifactId>apache</artifactId>
       <version>21</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1413,8 +1136,7 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-compress</artifactId>
       <version>1.16.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1424,9 +1146,8 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
-      <version>3.5</version>
-      fcc
-    <licenses>
+      <version>3.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1437,8 +1158,7 @@
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-parent</artifactId>
       <version>43</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1449,8 +1169,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1461,8 +1180,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-aether-provider</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1473,8 +1191,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-archiver</artifactId>
       <version>3.2.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1485,8 +1202,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-artifact</artifactId>
       <version>3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1497,20 +1213,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-artifact-manager</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven</groupId>
-      <artifactId>maven-compat</artifactId>
-      <version>3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1521,8 +1224,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-core</artifactId>
       <version>3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1533,8 +1235,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-error-diagnostics</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1545,8 +1246,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-model</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1557,8 +1257,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-model-builder</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1569,8 +1268,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-monitor</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1581,8 +1279,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-parent</artifactId>
       <version>33</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1593,8 +1290,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-api</artifactId>
       <version>3.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1605,8 +1301,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-descriptor</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1617,8 +1312,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-parameter-documenter</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1629,8 +1323,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-registry</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1641,8 +1334,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-profile</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1653,8 +1345,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-project</artifactId>
       <version>2.2.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1665,8 +1356,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-repository-metadata</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1677,8 +1367,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-settings</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1689,8 +1378,7 @@
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-settings-builder</artifactId>
       <version>3.2.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1700,9 +1388,8 @@
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-toolchain</artifactId>
-      <version>2.2.1</version>
-      fcc
-    <licenses>
+      <version>2.0.9</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1712,81 +1399,24 @@
     <dependency>
       <groupId>org.apache.maven.doxia</groupId>
       <artifactId>doxia</artifactId>
-      <version>1.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.doxia</groupId>
-      <artifactId>doxia-logging-api</artifactId>
-      <version>1.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
+      <version>1.0-alpha-7</version>
+      <licenses>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.doxia</groupId>
       <artifactId>doxia-sink-api</artifactId>
-      <version>1.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.enforcer</groupId>
-      <artifactId>enforcer</artifactId>
-      <version>3.0.0-M1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.enforcer</groupId>
-      <artifactId>enforcer-api</artifactId>
-      <version>3.0.0-M1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.enforcer</groupId>
-      <artifactId>enforcer-rules</artifactId>
-      <version>3.0.0-M1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
+      <version>1.0-alpha-7</version>
+      <licenses>
+        <!--No license information available. -->
       </licenses>
     </dependency>
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-annotations</artifactId>
-      <version>3.5.2</version>
-      fcc
-    <licenses>
+      <version>3.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1796,9 +1426,8 @@
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-tools</artifactId>
-      <version>3.5.2</version>
-      fcc
-    <licenses>
+      <version>3.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1808,21 +1437,8 @@
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-compiler-plugin</artifactId>
-      <version>3.8.0</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-enforcer-plugin</artifactId>
-      <version>3.0.0-M1</version>
-      fcc
-    <licenses>
+      <version>3.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1832,9 +1448,8 @@
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-install-plugin</artifactId>
-      <version>3.0.0-M1</version>
-      fcc
-    <licenses>
+      <version>2.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1844,9 +1459,8 @@
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-plugins</artifactId>
-      <version>33</version>
-      fcc
-    <licenses>
+      <version>31</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1856,9 +1470,8 @@
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-resources-plugin</artifactId>
-      <version>3.1.0</version>
-      fcc
-    <licenses>
+      <version>2.6</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1868,9 +1481,8 @@
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-surefire-plugin</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
+      <version>2.12.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1881,8 +1493,7 @@
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-war-plugin</artifactId>
       <version>3.2.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1892,9 +1503,8 @@
     <dependency>
       <groupId>org.apache.maven.reporting</groupId>
       <artifactId>maven-reporting</artifactId>
-      <version>2.2.1</version>
-      fcc
-    <licenses>
+      <version>2.0.9</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1904,9 +1514,8 @@
     <dependency>
       <groupId>org.apache.maven.reporting</groupId>
       <artifactId>maven-reporting-api</artifactId>
-      <version>3.0</version>
-      fcc
-    <licenses>
+      <version>2.0.9</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1917,8 +1526,7 @@
       <groupId>org.apache.maven.resolver</groupId>
       <artifactId>maven-resolver</artifactId>
       <version>1.3.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1929,8 +1537,7 @@
       <groupId>org.apache.maven.resolver</groupId>
       <artifactId>maven-resolver-api</artifactId>
       <version>1.3.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -1941,248 +1548,7 @@
       <groupId>org.apache.maven.resolver</groupId>
       <artifactId>maven-resolver-util</artifactId>
       <version>1.3.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-api</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-manager-plexus</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-managers</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-bazaar</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-clearcase</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-cvs-commons</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-cvsexe</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-git-commons</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-gitexe</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-hg</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-perforce</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-starteam</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-svn-commons</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-provider-svnexe</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-providers</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-providers-cvs</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-providers-git</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.scm</groupId>
-      <artifactId>maven-scm-providers-svn</artifactId>
-      <version>1.9.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.shared</groupId>
-      <artifactId>maven-artifact-transfer</artifactId>
-      <version>0.10.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2192,21 +1558,8 @@
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-common-artifact-filters</artifactId>
-      <version>3.0.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.shared</groupId>
-      <artifactId>maven-dependency-tree</artifactId>
-      <version>2.2</version>
-      fcc
-    <licenses>
+      <version>1.3</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2217,8 +1570,7 @@
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-filtering</artifactId>
       <version>3.1.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2229,8 +1581,7 @@
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-mapping</artifactId>
       <version>3.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2240,9 +1591,8 @@
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-shared-components</artifactId>
-      <version>31</version>
-      fcc
-    <licenses>
+      <version>30</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2253,8 +1603,7 @@
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-shared-incremental</artifactId>
       <version>1.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2264,9 +1613,8 @@
     <dependency>
       <groupId>org.apache.maven.shared</groupId>
       <artifactId>maven-shared-utils</artifactId>
-      <version>3.2.1</version>
-      fcc
-    <licenses>
+      <version>3.2.0</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2276,9 +1624,8 @@
     <dependency>
       <groupId>org.apache.maven.surefire</groupId>
       <artifactId>maven-surefire-common</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
+      <version>2.12.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2288,9 +1635,8 @@
     <dependency>
       <groupId>org.apache.maven.surefire</groupId>
       <artifactId>surefire</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
+      <version>2.12.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2300,9 +1646,8 @@
     <dependency>
       <groupId>org.apache.maven.surefire</groupId>
       <artifactId>surefire-api</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
+      <version>2.12.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2312,21 +1657,8 @@
     <dependency>
       <groupId>org.apache.maven.surefire</groupId>
       <artifactId>surefire-booter</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.maven.surefire</groupId>
-      <artifactId>surefire-logger-api</artifactId>
-      <version>2.22.1</version>
-      fcc
-    <licenses>
+      <version>2.12.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2337,8 +1669,7 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2349,8 +1680,7 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon-file</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2361,8 +1691,7 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon-http-lightweight</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2373,8 +1702,7 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon-http-shared</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2385,8 +1713,7 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon-provider-api</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2397,8 +1724,29 @@
       <groupId>org.apache.maven.wagon</groupId>
       <artifactId>wagon-providers</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.xbean</groupId>
+      <artifactId>xbean</artifactId>
+      <version>3.4</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.xbean</groupId>
+      <artifactId>xbean-reflect</artifactId>
+      <version>3.4</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2409,56 +1757,7 @@
       <groupId>org.arquillian.cube</groupId>
       <artifactId>arquillian-cube-bom</artifactId>
       <version>1.18.2</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.beanshell</groupId>
-      <artifactId>beanshell</artifactId>
-      <version>2.0b4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>GNU LESSER GENERAL PUBLIC LICENSE</name>
-          <url>http://www.gnu.org/licenses/lgpl.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.beanshell</groupId>
-      <artifactId>bsh</artifactId>
-      <version>2.0b4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>GNU LESSER GENERAL PUBLIC LICENSE</name>
-          <url>http://www.gnu.org/licenses/lgpl.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.codehaus.mojo</groupId>
-      <artifactId>buildnumber-maven-plugin</artifactId>
-      <version>1.4</version>
-      fcc
-    <licenses>
-        <license>
-          <name>The MIT License</name>
-          <url>http://www.opensource.org/licenses/MIT</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.codehaus.mojo</groupId>
-      <artifactId>mojo-parent</artifactId>
-      <version>38</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2469,8 +1768,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus</artifactId>
       <version>5.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2481,8 +1779,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
       <version>3.6.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2493,8 +1790,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-classworlds</artifactId>
       <version>2.2.3</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2504,9 +1800,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-compiler</artifactId>
-      <version>2.8.4</version>
-      fcc
-    <licenses>
+      <version>2.2</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2516,9 +1811,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-compiler-api</artifactId>
-      <version>2.8.4</version>
-      fcc
-    <licenses>
+      <version>2.2</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2528,9 +1822,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-compiler-javac</artifactId>
-      <version>2.8.4</version>
-      fcc
-    <licenses>
+      <version>2.2</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2540,9 +1833,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-compiler-manager</artifactId>
-      <version>2.8.4</version>
-      fcc
-    <licenses>
+      <version>2.2</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2552,9 +1844,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-compilers</artifactId>
-      <version>2.8.4</version>
-      fcc
-    <licenses>
+      <version>2.2</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2565,8 +1856,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-component-annotations</artifactId>
       <version>1.7.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2576,9 +1866,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-components</artifactId>
-      <version>4.0</version>
-      fcc
-    <licenses>
+      <version>1.3.1</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2588,9 +1877,8 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-container-default</artifactId>
-      <version>1.0-alpha-9</version>
-      fcc
-    <licenses>
+      <version>1.5.5</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2601,8 +1889,18 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-containers</artifactId>
       <version>1.7.1</version>
-      fcc
-    <licenses>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.codehaus.plexus</groupId>
+      <artifactId>plexus-digest</artifactId>
+      <version>1.0</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2613,8 +1911,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-interactivity-api</artifactId>
       <version>1.0-alpha-4</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2625,8 +1922,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-interpolation</artifactId>
       <version>1.25</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2637,32 +1933,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-io</artifactId>
       <version>3.0.1</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.codehaus.plexus</groupId>
-      <artifactId>plexus-java</artifactId>
-      <version>0.9.10</version>
-      fcc
-    <licenses>
-        <license>
-          <name>Apache Software License, Version 2.0</name>
-          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.codehaus.plexus</groupId>
-      <artifactId>plexus-languages</artifactId>
-      <version>0.9.10</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2673,8 +1944,7 @@
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
       <version>3.1.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2685,8 +1955,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2697,8 +1966,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-api</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2709,8 +1977,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-connector-basic</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2721,8 +1988,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-impl</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2733,8 +1999,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-spi</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2745,8 +2010,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-transport-wagon</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2757,8 +2021,7 @@
       <groupId>org.eclipse.aether</groupId>
       <artifactId>aether-util</artifactId>
       <version>1.0.0.v20140518</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Eclipse Public License, Version 1.0</name>
           <url>http://www.eclipse.org/legal/epl-v10.html</url>
@@ -2769,8 +2032,7 @@
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
       <version>5.0.2.201807311906-r</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -2781,8 +2043,7 @@
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit-parent</artifactId>
       <version>5.0.2.201807311906-r</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -2793,8 +2054,7 @@
       <groupId>org.eclipse.microprofile.config</groupId>
       <artifactId>microprofile-config-api</artifactId>
       <version>1.3</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2805,8 +2065,7 @@
       <groupId>org.eclipse.microprofile.config</groupId>
       <artifactId>microprofile-config-parent</artifactId>
       <version>1.3</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2817,8 +2076,7 @@
       <groupId>org.eclipse.microprofile.health</groupId>
       <artifactId>microprofile-health-api</artifactId>
       <version>1.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2829,8 +2087,7 @@
       <groupId>org.eclipse.microprofile.health</groupId>
       <artifactId>microprofile-health-parent</artifactId>
       <version>1.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2841,8 +2098,7 @@
       <groupId>org.glassfish</groupId>
       <artifactId>javax.el</artifactId>
       <version>3.0.1-b08-jbossorg-1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
           <url>https://netbeans.org/cddl-gplv2.html</url>
@@ -2853,8 +2109,7 @@
       <groupId>org.glassfish</groupId>
       <artifactId>javax.el-impl</artifactId>
       <version>3.0.1-b08-jbossorg-1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
           <url>https://netbeans.org/cddl-gplv2.html</url>
@@ -2865,8 +2120,7 @@
       <groupId>org.glassfish</groupId>
       <artifactId>javax.json</artifactId>
       <version>1.1.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Dual license consisting of the CDDL v1.1 and GPL v2</name>
           <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
@@ -2877,8 +2131,7 @@
       <groupId>org.glassfish</groupId>
       <artifactId>json</artifactId>
       <version>1.1.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Dual license consisting of the CDDL v1.1 and GPL v2</name>
           <url>https://oss.oracle.com/licenses/CDDL+GPL-1.1</url>
@@ -2889,8 +2142,7 @@
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-core</artifactId>
       <version>1.3</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -2901,8 +2153,7 @@
       <groupId>org.hamcrest</groupId>
       <artifactId>hamcrest-parent</artifactId>
       <version>1.3</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -2912,9 +2163,19 @@
     <dependency>
       <groupId>org.infinispan</groupId>
       <artifactId>infinispan-bom</artifactId>
-      <version>9.2.5.Final</version>
-      fcc
-    <licenses>
+      <version>9.4.6.Final</version>
+      <licenses>
+        <license>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.infinispan</groupId>
+      <artifactId>infinispan-build-configuration-parent</artifactId>
+      <version>9.4.6.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2924,9 +2185,8 @@
     <dependency>
       <groupId>org.infinispan</groupId>
       <artifactId>infinispan-client-hotrod</artifactId>
-      <version>9.2.5.Final</version>
-      fcc
-    <licenses>
+      <version>9.4.6.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2936,9 +2196,8 @@
     <dependency>
       <groupId>org.infinispan</groupId>
       <artifactId>infinispan-commons</artifactId>
-      <version>9.2.5.Final</version>
-      fcc
-    <licenses>
+      <version>9.4.6.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2948,9 +2207,8 @@
     <dependency>
       <groupId>org.infinispan</groupId>
       <artifactId>infinispan-parent</artifactId>
-      <version>9.2.5.Final</version>
-      fcc
-    <licenses>
+      <version>9.4.6.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2961,8 +2219,7 @@
       <groupId>org.iq80.snappy</groupId>
       <artifactId>snappy</artifactId>
       <version>0.4</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2973,8 +2230,7 @@
       <groupId>org.jboss</groupId>
       <artifactId>jandex</artifactId>
       <version>2.0.5.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -2985,8 +2241,7 @@
       <groupId>org.jboss</groupId>
       <artifactId>jboss-dmr</artifactId>
       <version>1.5.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -3001,8 +2256,18 @@
       <groupId>org.jboss</groupId>
       <artifactId>jboss-parent</artifactId>
       <version>31</version>
-      fcc
-    <licenses>
+      <licenses>
+        <license>
+          <name>Public Domain</name>
+          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+        </license>
+      </licenses>
+    </dependency>
+    <dependency>
+      <groupId>org.jboss</groupId>
+      <artifactId>jboss-parent-mr-jar</artifactId>
+      <version>31</version>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
@@ -3013,8 +2278,7 @@
       <groupId>org.jboss</groupId>
       <artifactId>jboss-vfs</artifactId>
       <version>3.2.14.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3025,8 +2289,7 @@
       <groupId>org.jboss</groupId>
       <artifactId>staxmapper</artifactId>
       <version>1.3.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
@@ -3037,8 +2300,7 @@
       <groupId>org.jboss.arquillian</groupId>
       <artifactId>arquillian-bom</artifactId>
       <version>1.4.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3049,8 +2311,7 @@
       <groupId>org.jboss.arquillian</groupId>
       <artifactId>arquillian-build</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3061,8 +2322,7 @@
       <groupId>org.jboss.arquillian</groupId>
       <artifactId>arquillian-parent</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3073,8 +2333,7 @@
       <groupId>org.jboss.arquillian.config</groupId>
       <artifactId>arquillian-config-api</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3085,8 +2344,7 @@
       <groupId>org.jboss.arquillian.config</groupId>
       <artifactId>arquillian-config-impl-base</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3097,8 +2355,7 @@
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-impl-base</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3109,8 +2366,7 @@
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-spi</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3121,8 +2377,7 @@
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-api</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3133,8 +2388,7 @@
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-impl-base</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3145,8 +2399,7 @@
       <groupId>org.jboss.arquillian.container</groupId>
       <artifactId>arquillian-container-test-spi</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3157,8 +2410,7 @@
       <groupId>org.jboss.arquillian.core</groupId>
       <artifactId>arquillian-core-api</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3169,8 +2421,7 @@
       <groupId>org.jboss.arquillian.core</groupId>
       <artifactId>arquillian-core-impl-base</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3181,8 +2432,7 @@
       <groupId>org.jboss.arquillian.core</groupId>
       <artifactId>arquillian-core-spi</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3193,8 +2443,7 @@
       <groupId>org.jboss.arquillian.junit</groupId>
       <artifactId>arquillian-junit-container</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3205,8 +2454,7 @@
       <groupId>org.jboss.arquillian.junit</groupId>
       <artifactId>arquillian-junit-core</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3217,8 +2465,7 @@
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-api</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3229,8 +2476,7 @@
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-impl-base</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3241,8 +2487,7 @@
       <groupId>org.jboss.arquillian.test</groupId>
       <artifactId>arquillian-test-spi</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3253,8 +2498,7 @@
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-cdi</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3265,8 +2509,7 @@
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-ejb</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3277,8 +2520,7 @@
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-initialcontext</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3289,8 +2531,7 @@
       <groupId>org.jboss.arquillian.testenricher</groupId>
       <artifactId>arquillian-testenricher-resource</artifactId>
       <version>1.1.15.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3301,8 +2542,7 @@
       <groupId>org.jboss.invocation</groupId>
       <artifactId>jboss-invocation</artifactId>
       <version>1.5.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3313,8 +2553,7 @@
       <groupId>org.jboss.logging</groupId>
       <artifactId>jboss-logging</artifactId>
       <version>3.3.2.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3325,8 +2564,7 @@
       <groupId>org.jboss.marshalling</groupId>
       <artifactId>jboss-marshalling</artifactId>
       <version>2.0.6.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3336,9 +2574,8 @@
     <dependency>
       <groupId>org.jboss.marshalling</groupId>
       <artifactId>jboss-marshalling-osgi</artifactId>
-      <version>2.0.2.Final</version>
-      fcc
-    <licenses>
+      <version>2.0.6.Final</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3349,8 +2586,7 @@
       <groupId>org.jboss.marshalling</groupId>
       <artifactId>jboss-marshalling-parent</artifactId>
       <version>2.0.6.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3361,8 +2597,7 @@
       <groupId>org.jboss.modules</groupId>
       <artifactId>jboss-modules</artifactId>
       <version>1.8.7.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3377,8 +2612,7 @@
       <groupId>org.jboss.msc</groupId>
       <artifactId>jboss-msc</artifactId>
       <version>1.4.5.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -3389,8 +2623,7 @@
       <groupId>org.jboss.narayana</groupId>
       <artifactId>narayana-all</artifactId>
       <version>5.9.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -3401,8 +2634,7 @@
       <groupId>org.jboss.narayana.jts</groupId>
       <artifactId>narayana-jts-all</artifactId>
       <version>5.9.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -3413,8 +2645,7 @@
       <groupId>org.jboss.narayana.jts</groupId>
       <artifactId>narayana-jts-idlj</artifactId>
       <version>5.9.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -3425,8 +2656,7 @@
       <groupId>org.jboss.openjdk-orb</groupId>
       <artifactId>openjdk-orb</artifactId>
       <version>8.0.4.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU General Public License, Version 2 with the Classpath Exception</name>
           <url>http://repository.jboss.org/licenses/gpl-2.0-ce.txt</url>
@@ -3437,8 +2667,7 @@
       <groupId>org.jboss.remoting</groupId>
       <artifactId>jboss-remoting</artifactId>
       <version>5.0.8.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3449,8 +2678,7 @@
       <groupId>org.jboss.shrinkwrap</groupId>
       <artifactId>shrinkwrap-api</artifactId>
       <version>1.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3461,8 +2689,7 @@
       <groupId>org.jboss.shrinkwrap</groupId>
       <artifactId>shrinkwrap-bom</artifactId>
       <version>1.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3473,8 +2700,7 @@
       <groupId>org.jboss.shrinkwrap</groupId>
       <artifactId>shrinkwrap-impl-base</artifactId>
       <version>1.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3485,8 +2711,7 @@
       <groupId>org.jboss.shrinkwrap</groupId>
       <artifactId>shrinkwrap-parent</artifactId>
       <version>1.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3497,8 +2722,7 @@
       <groupId>org.jboss.shrinkwrap</groupId>
       <artifactId>shrinkwrap-spi</artifactId>
       <version>1.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3509,8 +2733,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-api-base</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3521,8 +2744,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-api-javaee</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3533,8 +2755,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-api-jboss</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3545,8 +2766,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-bom</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3557,8 +2777,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-impl-base</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3569,8 +2788,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-impl-javaee</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3581,8 +2799,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-impl-jboss</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3593,8 +2810,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-parent</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3605,8 +2821,7 @@
       <groupId>org.jboss.shrinkwrap.descriptors</groupId>
       <artifactId>shrinkwrap-descriptors-spi</artifactId>
       <version>2.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3617,8 +2832,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-api</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3629,8 +2843,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-api-maven</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3641,8 +2854,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-bom</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3653,8 +2865,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-impl-maven</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3665,8 +2876,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-parent</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3677,8 +2887,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-spi</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3689,8 +2898,7 @@
       <groupId>org.jboss.shrinkwrap.resolver</groupId>
       <artifactId>shrinkwrap-resolver-spi-maven</artifactId>
       <version>2.2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3701,8 +2909,7 @@
       <groupId>org.jboss.spec.javax.annotation</groupId>
       <artifactId>jboss-annotations-api_1.2_spec</artifactId>
       <version>1.0.2.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development And Distribution License 1.1</name>
           <url>https://javaee.github.io/glassfish/LICENSE</url>
@@ -3717,8 +2924,7 @@
       <groupId>org.jboss.spec.javax.annotation</groupId>
       <artifactId>jboss-annotations-api_1.3_spec</artifactId>
       <version>1.0.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development And Distribution License 1.1</name>
           <url>https://javaee.github.io/glassfish/LICENSE</url>
@@ -3733,8 +2939,7 @@
       <groupId>org.jboss.spec.javax.el</groupId>
       <artifactId>jboss-el-api_3.0_spec</artifactId>
       <version>1.0.13.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development And Distribution License 1.1</name>
           <url>https://javaee.github.io/glassfish/LICENSE</url>
@@ -3749,8 +2954,7 @@
       <groupId>org.jboss.spec.javax.enterprise.concurrent</groupId>
       <artifactId>jboss-concurrency-api_1.0_spec</artifactId>
       <version>1.0.2.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License</name>
           <url>http://repository.jboss.org/licenses/cddl.txt</url>
@@ -3765,8 +2969,7 @@
       <groupId>org.jboss.spec.javax.interceptor</groupId>
       <artifactId>jboss-interceptors-api_1.2_spec</artifactId>
       <version>1.0.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License</name>
           <url>http://repository.jboss.org/licenses/cddl.txt</url>
@@ -3781,8 +2984,7 @@
       <groupId>org.jboss.spec.javax.servlet</groupId>
       <artifactId>jboss-servlet-api_4.0_spec</artifactId>
       <version>1.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development And Distribution License 1.1</name>
           <url>https://javaee.github.io/glassfish/LICENSE</url>
@@ -3797,8 +2999,7 @@
       <groupId>org.jboss.spec.javax.transaction</groupId>
       <artifactId>jboss-transaction-api_1.2_spec</artifactId>
       <version>1.1.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License</name>
           <url>http://repository.jboss.org/licenses/cddl.txt</url>
@@ -3813,8 +3014,7 @@
       <groupId>org.jboss.spec.javax.websocket</groupId>
       <artifactId>jboss-websocket-api_1.1_spec</artifactId>
       <version>1.1.3.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development And Distribution License 1.1</name>
           <url>https://javaee.github.io/glassfish/LICENSE</url>
@@ -3829,8 +3029,7 @@
       <groupId>org.jboss.spec.javax.ws.rs</groupId>
       <artifactId>jboss-jaxrs-api_2.1_spec</artifactId>
       <version>1.0.2.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Common Development and Distribution License 1.0</name>
           <url>http://repository.jboss.org/licenses/cddl.txt</url>
@@ -3845,8 +3044,7 @@
       <groupId>org.jboss.stdio</groupId>
       <artifactId>jboss-stdio</artifactId>
       <version>1.0.2.GA</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
@@ -3857,8 +3055,7 @@
       <groupId>org.jboss.threads</groupId>
       <artifactId>jboss-threads</artifactId>
       <version>2.3.2.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3869,8 +3066,7 @@
       <groupId>org.jboss.weld</groupId>
       <artifactId>weld-parent</artifactId>
       <version>36</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3881,8 +3077,7 @@
       <groupId>org.jboss.xnio</groupId>
       <artifactId>xnio-all</artifactId>
       <version>3.6.5.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3893,8 +3088,7 @@
       <groupId>org.jboss.xnio</groupId>
       <artifactId>xnio-api</artifactId>
       <version>3.6.5.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3905,8 +3099,7 @@
       <groupId>org.jboss.xnio</groupId>
       <artifactId>xnio-nio</artifactId>
       <version>3.6.5.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3917,8 +3110,7 @@
       <groupId>org.jooq</groupId>
       <artifactId>joox-java-6</artifactId>
       <version>1.6.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3929,8 +3121,7 @@
       <groupId>org.jsoup</groupId>
       <artifactId>jsoup</artifactId>
       <version>1.7.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://jsoup.com/license</url>
@@ -3941,8 +3132,7 @@
       <groupId>org.objenesis</groupId>
       <artifactId>objenesis</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3953,8 +3143,7 @@
       <groupId>org.objenesis</groupId>
       <artifactId>objenesis-parent</artifactId>
       <version>2.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3965,8 +3154,7 @@
       <groupId>org.osgi</groupId>
       <artifactId>org.osgi.annotation.versioning</artifactId>
       <version>1.0.0</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3977,8 +3165,7 @@
       <groupId>org.ow2</groupId>
       <artifactId>ow2</artifactId>
       <version>1.5</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -3988,9 +3175,8 @@
     <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm</artifactId>
-      <version>6.2.1</version>
-      fcc
-    <licenses>
+      <version>7.0</version>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -4000,9 +3186,8 @@
     <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm-analysis</artifactId>
-      <version>6.2.1</version>
-      fcc
-    <licenses>
+      <version>7.0</version>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -4012,9 +3197,8 @@
     <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm-commons</artifactId>
-      <version>6.2.1</version>
-      fcc
-    <licenses>
+      <version>7.0</version>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -4024,9 +3208,8 @@
     <dependency>
       <groupId>org.ow2.asm</groupId>
       <artifactId>asm-tree</artifactId>
-      <version>6.2.1</version>
-      fcc
-    <licenses>
+      <version>7.0</version>
+      <licenses>
         <license>
           <name>The BSD License</name>
           <url>http://repository.jboss.org/licenses/bsd.txt</url>
@@ -4037,8 +3220,7 @@
       <groupId>org.picketbox</groupId>
       <artifactId>picketbox</artifactId>
       <version>5.0.3.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4049,8 +3231,7 @@
       <groupId>org.picketbox</groupId>
       <artifactId>picketbox-parent</artifactId>
       <version>5.0.3.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4061,8 +3242,7 @@
       <groupId>org.projectodd.vdx</groupId>
       <artifactId>vdx-core</artifactId>
       <version>1.1.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4073,8 +3253,7 @@
       <groupId>org.projectodd.vdx</groupId>
       <artifactId>vdx-parent</artifactId>
       <version>1.1.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4085,8 +3264,7 @@
       <groupId>org.projectodd.vdx</groupId>
       <artifactId>vdx-wildfly</artifactId>
       <version>1.1.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4097,8 +3275,7 @@
       <groupId>org.slf4j</groupId>
       <artifactId>jcl-over-slf4j</artifactId>
       <version>1.5.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://www.opensource.org/licenses/MIT</url>
@@ -4108,9 +3285,8 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
-      <version>1.7.5</version>
-      fcc
-    <licenses>
+      <version>1.5.6</version>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://www.opensource.org/licenses/MIT</url>
@@ -4121,8 +3297,7 @@
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-jdk14</artifactId>
       <version>1.5.6</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://www.opensource.org/licenses/MIT</url>
@@ -4132,9 +3307,8 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-parent</artifactId>
-      <version>1.7.5</version>
-      fcc
-    <licenses>
+      <version>1.5.6</version>
+      <licenses>
         <license>
           <name>The MIT License</name>
           <url>http://www.opensource.org/licenses/MIT</url>
@@ -4145,8 +3319,7 @@
       <groupId>org.sonatype.aether</groupId>
       <artifactId>aether-api</artifactId>
       <version>1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4157,8 +3330,7 @@
       <groupId>org.sonatype.aether</groupId>
       <artifactId>aether-impl</artifactId>
       <version>1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4169,8 +3341,7 @@
       <groupId>org.sonatype.aether</groupId>
       <artifactId>aether-parent</artifactId>
       <version>1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4181,8 +3352,7 @@
       <groupId>org.sonatype.aether</groupId>
       <artifactId>aether-spi</artifactId>
       <version>1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4193,8 +3363,7 @@
       <groupId>org.sonatype.aether</groupId>
       <artifactId>aether-util</artifactId>
       <version>1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4205,8 +3374,7 @@
       <groupId>org.sonatype.forge</groupId>
       <artifactId>forge-parent</artifactId>
       <version>10</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4217,8 +3385,7 @@
       <groupId>org.sonatype.oss</groupId>
       <artifactId>oss-parent</artifactId>
       <version>9</version>
-      fcc
-    <licenses>
+      <licenses>
         <!--No license information available. -->
       </licenses>
     </dependency>
@@ -4226,8 +3393,7 @@
       <groupId>org.sonatype.plexus</groupId>
       <artifactId>plexus-build-api</artifactId>
       <version>0.0.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4238,8 +3404,7 @@
       <groupId>org.sonatype.plexus</groupId>
       <artifactId>plexus-cipher</artifactId>
       <version>1.4</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4249,9 +3414,8 @@
     <dependency>
       <groupId>org.sonatype.plexus</groupId>
       <artifactId>plexus-sec-dispatcher</artifactId>
-      <version>1.4</version>
-      fcc
-    <licenses>
+      <version>1.3</version>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4262,8 +3426,7 @@
       <groupId>org.sonatype.sisu</groupId>
       <artifactId>sisu-guice</artifactId>
       <version>2.1.7</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4274,8 +3437,7 @@
       <groupId>org.sonatype.sisu</groupId>
       <artifactId>sisu-inject</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4286,8 +3448,7 @@
       <groupId>org.sonatype.sisu</groupId>
       <artifactId>sisu-inject-bean</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4298,8 +3459,7 @@
       <groupId>org.sonatype.sisu</groupId>
       <artifactId>sisu-inject-plexus</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4310,8 +3470,7 @@
       <groupId>org.sonatype.sisu</groupId>
       <artifactId>sisu-parent</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4322,8 +3481,7 @@
       <groupId>org.sonatype.sisu.inject</groupId>
       <artifactId>guice-bean</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4334,8 +3492,7 @@
       <groupId>org.sonatype.sisu.inject</groupId>
       <artifactId>guice-plexus</artifactId>
       <version>1.4.2</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4346,8 +3503,7 @@
       <groupId>org.sonatype.spice</groupId>
       <artifactId>spice-parent</artifactId>
       <version>17</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4355,35 +3511,10 @@
       </licenses>
     </dependency>
     <dependency>
-      <groupId>org.tmatesoft.sqljet</groupId>
-      <artifactId>sqljet</artifactId>
-      <version>1.1.10</version>
-      fcc
-    <licenses>
-        <license>
-          <name>GPL (with dual licensing option)</name>
-          <url>http://www.gnu.org/licenses/gpl.html</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
-      <groupId>org.tmatesoft.svnkit</groupId>
-      <artifactId>svnkit</artifactId>
-      <version>1.8.5</version>
-      fcc
-    <licenses>
-        <license>
-          <name>TMate Open Source License (with dual licensing option)</name>
-          <url>http://www.svnkit.com/license.html</url>
-        </license>
-      </licenses>
-    </dependency>
-    <dependency>
       <groupId>org.tukaani</groupId>
       <artifactId>xz</artifactId>
       <version>1.8</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url/>
@@ -4394,8 +3525,7 @@
       <groupId>org.wildfly</groupId>
       <artifactId>wildfly-parent</artifactId>
       <version>15.0.1.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4405,12 +3535,11 @@
     <dependency>
       <groupId>org.wildfly.client</groupId>
       <artifactId>wildfly-client-config</artifactId>
-      <version>1.0.0.CR2</version>
-      fcc
-    <licenses>
+      <version>1.0.0.Final</version>
+      <licenses>
         <license>
-          <name>Public Domain</name>
-          <url>http://repository.jboss.org/licenses/cc0-1.0.txt</url>
+          <name>Apache Software License, Version 2.0</name>
+          <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
       </licenses>
     </dependency>
@@ -4418,8 +3547,7 @@
       <groupId>org.wildfly.common</groupId>
       <artifactId>wildfly-common</artifactId>
       <version>1.4.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4430,8 +3558,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-controller</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4446,8 +3573,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-controller-client</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4462,8 +3588,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-management</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4478,8 +3603,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-management-client</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4494,8 +3618,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-parent</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4510,8 +3633,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-security</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4526,8 +3648,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-security-api</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4542,8 +3663,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-core-security-parent</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4558,8 +3678,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-deployment-repository</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4574,8 +3693,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-domain-http</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4590,8 +3708,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-domain-http-interface</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4606,8 +3723,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-domain-management</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4622,8 +3738,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-io</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4638,8 +3753,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-io-bom</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4654,8 +3768,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-network</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4670,8 +3783,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-platform-mbean</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4686,8 +3798,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-process-controller</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4702,8 +3813,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-protocol</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4718,8 +3828,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-remoting</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4734,8 +3843,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-remoting-parent</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4750,8 +3858,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-server</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4766,8 +3873,7 @@
       <groupId>org.wildfly.core</groupId>
       <artifactId>wildfly-version</artifactId>
       <version>7.0.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>GNU Lesser General Public License, Version 2.1</name>
           <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
@@ -4782,8 +3888,7 @@
       <groupId>org.wildfly.security</groupId>
       <artifactId>wildfly-elytron</artifactId>
       <version>1.7.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4794,8 +3899,7 @@
       <groupId>org.wildfly.security.elytron-web</groupId>
       <artifactId>elytron-web-parent</artifactId>
       <version>1.3.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4806,8 +3910,7 @@
       <groupId>org.wildfly.security.elytron-web</groupId>
       <artifactId>undertow-server</artifactId>
       <version>1.3.0.Final</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Apache Software License, Version 2.0</name>
           <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -4818,8 +3921,7 @@
       <groupId>xmlpull</groupId>
       <artifactId>xmlpull</artifactId>
       <version>1.1.3.1</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Public Domain</name>
           <url>http://www.xmlpull.org/v1/download/unpacked/LICENSE.txt</url>
@@ -4830,8 +3932,7 @@
       <groupId>xpp3</groupId>
       <artifactId>xpp3_min</artifactId>
       <version>1.1.4c</version>
-      fcc
-    <licenses>
+      <licenses>
         <license>
           <name>Indiana University Extreme! Lab Software License, vesion 1.1.1</name>
           <url>http://www.extreme.indiana.edu/viewcvs/~checkout~/XPP3/java/LICENSE.txt</url>
