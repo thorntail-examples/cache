@@ -146,6 +146,17 @@
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.module</groupId>
+            <artifactId>jackson-module-afterburner</artifactId>
+            <version>2.7.5</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.module</groupId>
             <artifactId>jackson-module-jaxb-annotations</artifactId>
             <version>2.6.3</version>
             <licenses>
@@ -222,6 +233,28 @@
             </licenses>
         </dependency>
         <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>annotations</artifactId>
+            <version>2.0.3</version>
+            <licenses>
+                <license>
+                    <name>GNU Lesser General Public License, Version 3</name>
+                    <url>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>14.0.1</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>18.0</version>
@@ -284,6 +317,50 @@
                 <license>
                     <name>BSD 3-Clause "New" or "Revised" License</name>
                     <url>https://opensource.org/licenses/BSD-3-Clause</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.netflix.archaius</groupId>
+            <artifactId>archaius-core</artifactId>
+            <version>0.6.6</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.netflix.hystrix</groupId>
+            <artifactId>hystrix-core</artifactId>
+            <version>1.5.12</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.netflix.hystrix</groupId>
+            <artifactId>hystrix-metrics-event-stream</artifactId>
+            <version>1.5.12</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>com.netflix.hystrix</groupId>
+            <artifactId>hystrix-serialization</artifactId>
+            <version>1.5.12</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
                 </license>
             </licenses>
         </dependency>
@@ -420,6 +497,17 @@
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
             <version>3.2.2</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>commons-configuration</groupId>
+            <artifactId>commons-configuration</artifactId>
+            <version>1.10</version>
             <licenses>
                 <license>
                     <name>Apache License 2.0</name>
@@ -626,6 +714,17 @@
             </licenses>
         </dependency>
         <dependency>
+            <groupId>io.reactivex</groupId>
+            <artifactId>rxjava</artifactId>
+            <version>1.3.0</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>json-path</artifactId>
             <version>4.3.0</version>
@@ -693,8 +792,41 @@
         </dependency>
         <dependency>
             <groupId>io.smallrye</groupId>
+            <artifactId>smallrye-fault-tolerance-2.0</artifactId>
+            <version>1.0.1</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.smallrye</groupId>
             <artifactId>smallrye-health-2.0</artifactId>
             <version>1.0.3</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.smallrye</groupId>
+            <artifactId>smallrye-metrics-2.0</artifactId>
+            <version>1.1.0</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
+            <artifactId>archaius</artifactId>
+            <version>2.5.0.Final</version>
             <licenses>
                 <license>
                     <name>Apache License 2.0</name>
@@ -858,6 +990,17 @@
         </dependency>
         <dependency>
             <groupId>io.thorntail</groupId>
+            <artifactId>hystrix</artifactId>
+            <version>2.5.0.Final</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
             <artifactId>io</artifactId>
             <version>2.5.0.Final</version>
             <licenses>
@@ -957,7 +1100,29 @@
         </dependency>
         <dependency>
             <groupId>io.thorntail</groupId>
+            <artifactId>microprofile-fault-tolerance</artifactId>
+            <version>2.5.0.Final</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
             <artifactId>microprofile-health</artifactId>
+            <version>2.5.0.Final</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
+            <artifactId>microprofile-metrics</artifactId>
             <version>2.5.0.Final</version>
             <licenses>
                 <license>
@@ -980,6 +1145,28 @@
         <dependency>
             <groupId>io.thorntail</groupId>
             <artifactId>naming</artifactId>
+            <version>2.5.0.Final</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
+            <artifactId>netflix-guava</artifactId>
+            <version>2.5.0.Final</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>io.thorntail</groupId>
+            <artifactId>netflix-rxjava</artifactId>
             <version>2.5.0.Final</version>
             <licenses>
                 <license>
@@ -1057,7 +1244,7 @@
         <dependency>
             <groupId>io.thorntail.example</groupId>
             <artifactId>thorntail-cache-cute-name</artifactId>
-            <version>8</version>
+            <version>9</version>
             <licenses>
                 <license>
                     <name>Apache License 2.0</name>
@@ -1068,7 +1255,7 @@
         <dependency>
             <groupId>io.thorntail.example</groupId>
             <artifactId>thorntail-cache-greeting</artifactId>
-            <version>8</version>
+            <version>9</version>
             <licenses>
                 <license>
                     <name>Apache License 2.0</name>
@@ -1183,6 +1370,21 @@
                 <license>
                     <name>Apache License 2.0</name>
                     <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>javax.enterprise.concurrent</groupId>
+            <artifactId>javax.enterprise.concurrent-api</artifactId>
+            <version>1.0</version>
+            <licenses>
+                <license>
+                    <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
+                    <url>https://netbeans.org/cddl-gplv2.html</url>
+                </license>
+                <license>
+                    <name>Common Development and Distribution License (CDDL) and GNU Public License v.2 w/Classpath Exception</name>
+                    <url>https://netbeans.org/cddl-gplv2.html</url>
                 </license>
             </licenses>
         </dependency>
@@ -2046,8 +2248,30 @@
             </licenses>
         </dependency>
         <dependency>
+            <groupId>org.eclipse.microprofile.fault-tolerance</groupId>
+            <artifactId>microprofile-fault-tolerance-api</artifactId>
+            <version>2.0.1</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
             <groupId>org.eclipse.microprofile.health</groupId>
             <artifactId>microprofile-health-api</artifactId>
+            <version>2.0.1</version>
+            <licenses>
+                <license>
+                    <name>Apache License 2.0</name>
+                    <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.microprofile.metrics</groupId>
+            <artifactId>microprofile-metrics-api</artifactId>
             <version>2.0.1</version>
             <licenses>
                 <license>
@@ -2222,6 +2446,17 @@
                 <license>
                     <name>BSD 2-clause "Simplified" License</name>
                     <url>https://opensource.org/licenses/BSD-2-Clause/</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>org.hdrhistogram</groupId>
+            <artifactId>HdrHistogram</artifactId>
+            <version>2.1.9</version>
+            <licenses>
+                <license>
+                    <name>Creative Commons Zero 1.0 Universal</name>
+                    <url>http://creativecommons.org/publicdomain/zero/1.0/legalcode</url>
                 </license>
             </licenses>
         </dependency>
@@ -4032,6 +4267,17 @@
                 <license>
                     <name>Creative Commons Zero 1.0 Universal</name>
                     <url>http://creativecommons.org/publicdomain/zero/1.0/legalcode</url>
+                </license>
+            </licenses>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.0</version>
+            <licenses>
+                <license>
+                    <name>MIT License</name>
+                    <url>https://opensource.org/licenses/MIT/</url>
                 </license>
             </licenses>
         </dependency>
